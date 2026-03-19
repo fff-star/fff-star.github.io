@@ -14,9 +14,9 @@ style = "github-dark"
 
 [params]
   author = "fff-star"
-  # info = "CS Studnet"
+  # info = "CS Student"
   description = "fff-star's personal website"
-  keywords = "blog,studnet,personal"
+  keywords = "blog,student,personal"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
 

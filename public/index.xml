@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fff-star</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on fff-star</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Mar 2026 11:33:21 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 19 Mar 2026 11:33:21 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;hello-im-fff-star&#34;&gt;&#xA;  Hello, I&amp;rsquo;m fff-star.&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#hello-im-fff-star&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I am currently a &lt;strong&gt;Sophomore (2nd-year)&lt;/strong&gt; undergraduate student. I spend most of my time exploring the intersection of &lt;strong&gt;Computer Science&lt;/strong&gt;, &lt;strong&gt;Cryptography&lt;/strong&gt;, and &lt;strong&gt;Mathematics&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-tech-stack&#34;&gt;&#xA;  🛠️ Tech Stack&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#-tech-stack&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;OS&lt;/strong&gt;: &lt;a href=&#34;https://fedoraproject.org/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fedora Linux&lt;/a&gt; (Niri / Wayland)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Editor&lt;/strong&gt;: &lt;a href=&#34;https://neovim.io/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neovim&lt;/a&gt; (Lua-based configuration)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Languages&lt;/strong&gt;: C, C++, Python, and currently learning &lt;strong&gt;Go&lt;/strong&gt; 🐹 and &lt;strong&gt;Rust&lt;/strong&gt; 🦀&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Here are my dotfiles: &lt;a href=&#34;https://github.com/fff-star/dotfiles&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;,&lt;a href=&#34;https://codeberg.org/fff-star/dotfiles&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;codeberg&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
