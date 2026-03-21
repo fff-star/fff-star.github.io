@@ -6,7 +6,7 @@ title: 'About'
 
 ## Hello, I'm fff-star.
 
-I am currently a **Sophomore (2nd-year)** undergraduate student. I spend most of my time exploring the intersection of **Computer Science**, **Cryptography**, and **Mathematics**.
+I am currently a **Sophomore (2nd-year)** undergraduate student. I spend most of my time exploring the intersection of **Computer Science**, **Cryptography**, and **Coding Theory**.
 
 ### 🛠️ Tech Stack
 
