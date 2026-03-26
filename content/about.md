@@ -14,4 +14,3 @@ I am currently a **Sophomore (2nd-year)** undergraduate student. I spend most of
 * **Editor**: [Neovim](https://neovim.io/) (Lua-based configuration)
 * **Languages**: C, C++, Python, and currently learning **Go** 🐹 and **Rust** 🦀
 
-Here are my dotfiles: [github](https://github.com/fff-star/dotfiles),[codeberg](https://codeberg.org/fff-star/dotfiles).
